@@ -2,11 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.40.1](https://github.com/Richard87/radix-cli/compare/v1.40.0..v1.40.1) - 2026-08-14
+
+### 🐛 Bug Fixes
+
+- Correct image name - ([923a0ba](https://github.com/Richard87/radix-cli/commit/923a0ba119c512af244631713bce1f759bfd9c0f)) by @Richard87
+
+
 ## [1.40.0](https://github.com/Richard87/radix-cli/compare/v1.39.4..v1.40.0) - 2026-08-14
 
 ### 🚀 Features
 
 - Drop goreleaser - ([0295db9](https://github.com/Richard87/radix-cli/commit/0295db9a32034c367ed88d31878f26d3950d2b3d)) by @Richard87
+
+
+### 💼 Other
+
+- Merge pull request #9 from Richard87/release-pull-request/stable-release
+
+chore: release 1.40.0 - ([11a43ce](https://github.com/Richard87/radix-cli/commit/11a43ce4bd157ff26dc1355f4edc8da11574ce3a)) by @Richard87 in [#9](https://github.com/Richard87/radix-cli/pull/9)
 
 
 ## [1.39.4](https://github.com/Richard87/radix-cli/compare/v1.39.3..v1.39.4) - 2026-08-14
