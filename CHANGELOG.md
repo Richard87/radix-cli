@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.39.3](https://github.com/Richard87/radix-cli/compare/v1.39.2..v1.39.3) - 2026-08-14
+
+### 🐛 Bug Fixes
+
+- Adjust timeout settings in CI workflows - ([41a806a](https://github.com/Richard87/radix-cli/commit/41a806ad76ce96c2b0723a7796a6ba1ebe55cc58)) by @Richard87
+
+- Readme - ([1f9fe67](https://github.com/Richard87/radix-cli/commit/1f9fe67c2d7d6cf49a0895b79a28dd32d7d694f4)) by @Richard87
+
+
+### 💼 Other
+
+- Add timeout for goreleaser - ([31dbfe8](https://github.com/Richard87/radix-cli/commit/31dbfe8a9ea29038652610b724adbac05c47911a)) by @Richard87
+
+
 ## [1.39.2](https://github.com/Richard87/radix-cli/compare/v1.39.1..v1.39.2) - 2026-08-14
 
 ### 🐛 Bug Fixes
@@ -26,6 +40,10 @@ chore: release 1.39.2 - ([6321828](https://github.com/Richard87/radix-cli/commit
 - Merge pull request #2 from Richard87/release-pull-request/stable-release
 
 chore: release 1.39.2 - ([f61f575](https://github.com/Richard87/radix-cli/commit/f61f575767903f5eaea02df7b0133c2f98e59f36)) by @Richard87 in [#2](https://github.com/Richard87/radix-cli/pull/2)
+
+- Merge pull request #4 from Richard87/release-pull-request/stable-release
+
+chore: release 1.39.2 - ([20b3336](https://github.com/Richard87/radix-cli/commit/20b3336c31fe3a94370e5598e3744160a2770d5a)) by @Richard87 in [#4](https://github.com/Richard87/radix-cli/pull/4)
 
 
 ## [1.39.1](https://github.com/Richard87/radix-cli/compare/v1.39.0..v1.39.1) - 2026-08-13
