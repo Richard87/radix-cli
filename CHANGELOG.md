@@ -2,11 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.40.0](https://github.com/Richard87/radix-cli/compare/v1.39.4..v1.40.0) - 2026-08-14
+
+### 🚀 Features
+
+- Drop goreleaser - ([0295db9](https://github.com/Richard87/radix-cli/commit/0295db9a32034c367ed88d31878f26d3950d2b3d)) by @Richard87
+
+
 ## [1.39.4](https://github.com/Richard87/radix-cli/compare/v1.39.3..v1.39.4) - 2026-08-14
 
 ### 🐛 Bug Fixes
 
 - Add goreleaser timeout - ([e2d402d](https://github.com/Richard87/radix-cli/commit/e2d402d707ad3ee17c1d0b6b1c2d78b22fbcce80)) by @Richard87
+
+
+### 💼 Other
+
+- Merge pull request #7 from Richard87/release-pull-request/stable-release
+
+chore: release 1.39.4 - ([00dde61](https://github.com/Richard87/radix-cli/commit/00dde6130fd08e7ccd75392fb24a414867d0546b)) by @Richard87 in [#7](https://github.com/Richard87/radix-cli/pull/7)
 
 
 ## [1.39.3](https://github.com/Richard87/radix-cli/compare/v1.39.2..v1.39.3) - 2026-08-14
