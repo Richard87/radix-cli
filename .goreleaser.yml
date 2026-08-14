@@ -22,7 +22,7 @@ builds:
 dockers_v2:
   - dockerfile: Dockerfile.goreleaser
     images:
-      - ghcr.io/equinor/radix/rx
+      - ghcr.io/richard87/radix-cli
     tags:
       - latest
       - "{{ .Version }}"
