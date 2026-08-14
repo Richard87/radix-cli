@@ -14,12 +14,18 @@ All notable changes to this project will be documented in this file.
 
 - Version - ([30cddff](https://github.com/Richard87/radix-cli/commit/30cddffb0d23436667bc55c15616059b95a3a940)) by @Richard87
 
+- Version - ([2713df1](https://github.com/Richard87/radix-cli/commit/2713df11efaae192f60ee78158de063df55a18c6)) by @Richard87
+
 
 ### 💼 Other
 
 - Merge pull request #1 from Richard87/release-pull-request/stable-release
 
 chore: release 1.39.2 - ([6321828](https://github.com/Richard87/radix-cli/commit/632182864f960c42fe812e6c4f8cc5787b7d61cb)) by @Richard87 in [#1](https://github.com/Richard87/radix-cli/pull/1)
+
+- Merge pull request #2 from Richard87/release-pull-request/stable-release
+
+chore: release 1.39.2 - ([f61f575](https://github.com/Richard87/radix-cli/commit/f61f575767903f5eaea02df7b0133c2f98e59f36)) by @Richard87 in [#2](https://github.com/Richard87/radix-cli/pull/2)
 
 
 ## [1.39.1](https://github.com/Richard87/radix-cli/compare/v1.39.0..v1.39.1) - 2026-08-13
