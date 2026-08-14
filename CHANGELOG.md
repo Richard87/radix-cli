@@ -12,6 +12,15 @@ All notable changes to this project will be documented in this file.
 
 - Use tags from reusable workflow - ([ebe71c9](https://github.com/Richard87/radix-cli/commit/ebe71c90d834106f590ff16a51d3036d22ecb18a)) by @Richard87
 
+- Version - ([30cddff](https://github.com/Richard87/radix-cli/commit/30cddffb0d23436667bc55c15616059b95a3a940)) by @Richard87
+
+
+### 💼 Other
+
+- Merge pull request #1 from Richard87/release-pull-request/stable-release
+
+chore: release 1.39.2 - ([6321828](https://github.com/Richard87/radix-cli/commit/632182864f960c42fe812e6c4f8cc5787b7d61cb)) by @Richard87 in [#1](https://github.com/Richard87/radix-cli/pull/1)
+
 
 ## [1.39.1](https://github.com/Richard87/radix-cli/compare/v1.39.0..v1.39.1) - 2026-08-13
 
