@@ -1,5 +1,7 @@
 # Radix CLI
+ F
 
+ ork test 
 Radix CLI is the command-line interface for the Radix platform, enabling users to automate application management.
 
 For general usage documentation, see the [Radix CLI docs](https://radix.equinor.com/docs/topic-radix-cli/).
@@ -11,10 +13,10 @@ For general usage documentation, see the [Radix CLI docs](https://radix.equinor.
 1. Choose a [release version](https://github.com/equinor/radix-cli/releases).
 2. Download and extract the appropriate `.tar.gz` file for your platform into your `bin` folder.
 
-| OS    | AMD64                                       | ARM64                                      |
-|-------|---------------------------------------------|--------------------------------------------|
-| Mac   | `radix-cli_<version>_Darwin_x86_64.tar.gz`  | `radix-cli_<version>_Darwin_arm64.tar.gz`  |
-| Linux | `radix-cli_<version>_Linux_x86_64.tar.gz`   | `radix-cli_<version>_Linux_arm64.tar.gz`   |
+| OS    | AMD64                                      | ARM64                                     |
+| ----- | ------------------------------------------ | ----------------------------------------- |
+| Mac   | `radix-cli_<version>_Darwin_x86_64.tar.gz` | `radix-cli_<version>_Darwin_arm64.tar.gz` |
+| Linux | `radix-cli_<version>_Linux_x86_64.tar.gz`  | `radix-cli_<version>_Linux_arm64.tar.gz`  |
 
 **Example installation (Mac, AMD64):**
 
