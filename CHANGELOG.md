@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.40.3](https://github.com/Richard87/radix-cli/compare/v1.40.2..v1.40.3) - 2026-08-17
+
+### 🐛 Bug Fixes
+
+- Remove tag step - ([9a60e93](https://github.com/Richard87/radix-cli/commit/9a60e939a026d5a3eaf01fffa72b6c0c2e786a9e)) by @Richard87
+
+
 ## [1.40.2](https://github.com/Richard87/radix-cli/compare/v1.40.1..v1.40.2) - 2026-08-17
 
 ### 🐛 Bug Fixes
@@ -9,6 +16,13 @@ All notable changes to this project will be documented in this file.
 - Try paralell builds - ([aa6a685](https://github.com/Richard87/radix-cli/commit/aa6a68563adffe2e88f2051089a5bab094ad98fe)) by @Richard87
 
 - Workflows - ([a87edcf](https://github.com/Richard87/radix-cli/commit/a87edcf9dd6dd3f943edb84d015ee23d71122b98)) by @Richard87
+
+
+### 💼 Other
+
+- Merge pull request #13 from Richard87/release-pull-request/stable-release
+
+chore: release 1.40.2 - ([842baff](https://github.com/Richard87/radix-cli/commit/842bafffe46c874c262c653941b7c0d141cddf8f)) by @Richard87 in [#13](https://github.com/Richard87/radix-cli/pull/13)
 
 
 ## [1.40.1](https://github.com/Richard87/radix-cli/compare/v1.40.0..v1.40.1) - 2026-08-14
