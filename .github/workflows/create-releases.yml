@@ -12,7 +12,7 @@ jobs:
     permissions:
       pull-requests: read
       contents: read
-    uses: equinor/radix-reusable-workflows/.github/workflows/template-unreleased-pr-metadata.yml@tag-release-even-if-it-is-draft # v1.2.0
+    uses: equinor/radix-reusable-workflows/.github/workflows/template-unreleased-pr-metadata.yml@v1.2.1 # v1.2.1
 
   release-pull-request:
     name: Release pull request
@@ -26,7 +26,7 @@ jobs:
       pull-requests: write
       contents: read
       issues: write
-    uses: equinor/radix-reusable-workflows/.github/workflows/template-create-release-from-pr.yml@tag-release-even-if-it-is-draft # v1.2.0
+    uses: equinor/radix-reusable-workflows/.github/workflows/template-create-release-from-pr.yml@v1.2.1 # v1.2.1
     with:
       pull-request-number: ${{ matrix.pull-request-number }}
       use-github-app-token: true
