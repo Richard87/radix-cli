@@ -2,11 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.40.2](https://github.com/Richard87/radix-cli/compare/v1.40.1..v1.40.2) - 2026-08-17
+
+### 🐛 Bug Fixes
+
+- Try paralell builds - ([aa6a685](https://github.com/Richard87/radix-cli/commit/aa6a68563adffe2e88f2051089a5bab094ad98fe)) by @Richard87
+
+- Workflows - ([a87edcf](https://github.com/Richard87/radix-cli/commit/a87edcf9dd6dd3f943edb84d015ee23d71122b98)) by @Richard87
+
+
 ## [1.40.1](https://github.com/Richard87/radix-cli/compare/v1.40.0..v1.40.1) - 2026-08-14
 
 ### 🐛 Bug Fixes
 
 - Correct image name - ([923a0ba](https://github.com/Richard87/radix-cli/commit/923a0ba119c512af244631713bce1f759bfd9c0f)) by @Richard87
+
+
+### 💼 Other
+
+- Merge pull request #11 from Richard87/release-pull-request/stable-release
+
+chore: release 1.40.1 - ([1a75315](https://github.com/Richard87/radix-cli/commit/1a75315d0f11985b6a15e86d26a28907befeee60)) by @Richard87 in [#11](https://github.com/Richard87/radix-cli/pull/11)
 
 
 ## [1.40.0](https://github.com/Richard87/radix-cli/compare/v1.39.4..v1.40.0) - 2026-08-14
